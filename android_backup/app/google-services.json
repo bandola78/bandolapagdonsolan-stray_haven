@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "51582572100",
+    "project_id": "stray-haven-afb3b",
+    "storage_bucket": "stray-haven-afb3b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51582572100:android:c6067fe2e448410abe8e11",
+        "android_client_info": {
+          "package_name": "com.bandolapagdonsolan.strayhaven"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9KLMjJBBu3Q-gj-5_OEjkmuXEmSVskDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
