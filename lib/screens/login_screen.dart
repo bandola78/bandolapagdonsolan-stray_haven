@@ -58,7 +58,7 @@ class _LoginScreenState extends State<LoginScreen> {
 
       if (mounted) {
         ScaffoldMessenger.of(context).showSnackBar(
-          const SnackBar(content: Text('Welcome back!')),
+          const SnackBar(content: Text('Welcome!')),
         );
 
         Navigator.of(context).pushReplacement(
